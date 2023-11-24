@@ -1,0 +1,485 @@
+[
+  {
+    "question": "What is the speed of light?",
+    "subject": "Physics",
+    "topic": "Waves",
+    "difficulty": "Easy",
+    "marks": 5
+  },
+  {
+    "question": "Describe the principles of quantum mechanics.",
+    "subject": "Physics",
+    "topic": "Quantum Mechanics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Solve the differential equation: dy/dx = 2x",
+    "subject": "Mathematics",
+    "topic": "Differential Equations",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Explain the process of photosynthesis.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 6
+  },
+  {
+    "question": "Discuss the impact of climate change on ecosystems.",
+    "subject": "Environmental Science",
+    "topic": "Climate Change",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Compare and contrast classical and operant conditioning.",
+    "subject": "Psychology",
+    "topic": "Behavioral Psychology",
+    "difficulty": "Medium",
+    "marks": 12
+  },
+  {
+    "question": "Solve the following trigonometric equation: sin(x) + cos(x) = 1",
+    "subject": "Mathematics",
+    "topic": "Trigonometry",
+    "difficulty": "Hard",
+    "marks": 10
+  },
+  {
+    "question": "Explain the concept of entropy in thermodynamics.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Medium",
+    "marks": 8
+  },
+  {
+    "question": "Discuss the role of mitochondria in cellular respiration.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Hard",
+    "marks": 14
+  },
+  {
+    "question": "Solve the system of linear equations: 2x + y = 5, 3x - 2y = 1",
+    "subject": "Mathematics",
+    "topic": "Linear Algebra",
+    "difficulty": "Medium",
+    "marks": 9
+  },
+  {
+    "question": "Examine the impact of globalization on cultural diversity.",
+    "subject": "Sociology",
+    "topic": "Globalization",
+    "difficulty": "Medium",
+    "marks": 11
+  },
+  {
+    "question": "Discuss the causes and consequences of the Industrial Revolution.",
+    "subject": "History",
+    "topic": "Industrial Revolution",
+    "difficulty": "Hard",
+    "marks": 16
+  },
+  {
+    "question": "Explain the laws of thermodynamics.",
+    "subject": "Physics",
+    "topic": "Thermodynamics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Define and give examples of different types of clouds.",
+    "subject": "Meteorology",
+    "topic": "Weather",
+    "difficulty": "Easy",
+    "marks": 7
+  },
+  {
+    "question": "Discuss the principles of supply and demand in economics.",
+    "subject": "Economics",
+    "topic": "Microeconomics",
+    "difficulty": "Medium",
+    "marks": 12
+  },
+  {
+    "question": "Explain the process of mitosis.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Easy",
+    "marks": 6
+  },
+  {
+    "question": "Define the concept of Gross Domestic Product (GDP).",
+    "subject": "Economics",
+    "topic": "Macroeconomics",
+    "difficulty": "Medium",
+    "marks": 11
+  },
+  {
+    "question": "Describe the structure of an atom.",
+    "subject": "Chemistry",
+    "topic": "Atomic Structure",
+    "difficulty": "Hard",
+    "marks": 14
+  },
+  {
+    "question": "Discuss the impact of social media on society.",
+    "subject": "Sociology",
+    "topic": "Social Media",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Solve the definite integral: ∫(2x + 1) dx from 0 to 3",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 13
+  },
+  {
+    "question": "Explain the concept of natural selection.",
+    "subject": "Biology",
+    "topic": "Evolution",
+    "difficulty": "Medium",
+    "marks": 9
+  },
+  {
+    "question": "Discuss the impact of artificial intelligence on the job market.",
+    "subject": "Computer Science",
+    "topic": "Artificial Intelligence",
+    "difficulty": "Medium",
+    "marks": 12
+  },
+  {
+    "question": "Solve the quadratic equation: ax^2 + bx + c = 0",
+    "subject": "Mathematics",
+    "topic": "Algebra",
+    "difficulty": "Easy",
+    "marks": 7
+  },
+  {
+    "question": "Explain the process of protein synthesis.",
+    "subject": "Biology",
+    "topic": "Genetics",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Discuss the impact of colonialism on African nations.",
+    "subject": "History",
+    "topic": "Colonialism",
+    "difficulty": "Medium",
+    "marks": 11
+  },
+  {
+    "question": "Define the concept of elasticity in economics.",
+    "subject": "Economics",
+    "topic": "Microeconomics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Explain the concept of cultural relativism in anthropology.",
+    "subject": "Anthropology",
+    "topic": "Cultural Anthropology",
+    "difficulty": "Medium",
+    "marks": 12
+  },
+  {
+    "question": "Discuss the role of the nervous system in human physiology.",
+    "subject": "Biology",
+    "topic": "Human Physiology",
+    "difficulty": "Hard",
+    "marks": 14
+  },
+  {
+    "question": "Solve the definite integral: ∫(3x^2 + 2x) dx from 1 to 4",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Hard",
+    "marks": 16
+  },
+  {
+    "question": "Explain the concept of inflation in economics.",
+    "subject": "Economics",
+    "topic": "Macroeconomics",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Discuss the impact of the Renaissance on art and culture.",
+    "subject": "History",
+    "topic": "Renaissance",
+    "difficulty": "Medium",
+    "marks": 12
+  },
+  {
+    "question": "Define and give examples of renewable energy sources.",
+    "subject": "Environmental Science",
+    "topic": "Renewable Energy",
+    "difficulty": "Easy",
+    "marks": 8
+  },
+  {
+    "question": "Explain the process of meiosis.",
+    "subject": "Biology",
+    "topic": "Genetics",
+    "difficulty": "Medium",
+    "marks": 11
+  },
+  {
+    "question": "Discuss the principles of game theory in economics.",
+    "subject": "Economics",
+    "topic": "Game Theory",
+    "difficulty": "Hard",
+    "marks": 14
+  },
+  {
+    "question": "Solve the definite integral: ∫(sin(x) + cos(x)) dx from 0 to π",
+    "subject": "Mathematics",
+    "topic": "Calculus",
+    "difficulty": "Medium",
+    "marks": 12
+  },
+  {
+    "question": "Explain the concept of cultural diffusion in anthropology.",
+    "subject": "Anthropology",
+    "topic": "Cultural Anthropology",
+    "difficulty": "Medium",
+    "marks": 11
+  },
+  {
+    "question": "Discuss the role of hormones in human reproduction.",
+    "subject": "Biology",
+    "topic": "Human Physiology",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Define the concept of monopolistic competition in economics.",
+    "subject": "Economics",
+    "topic": "Microeconomics",
+    "difficulty": "Medium",
+    "marks": 12
+  },
+  {
+    "question": "Explain the impact of the Enlightenment on political thought.",
+    "subject": "History",
+    "topic": "Enlightenment",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Discuss the environmental impact of deforestation.",
+    "subject": "Environmental Science",
+    "topic": "Deforestation",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Define and give examples of non-renewable energy sources.",
+    "subject": "Environmental Science",
+    "topic": "Non-Renewable Energy",
+    "difficulty": "Medium",
+    "marks": 11
+  },
+  {
+    "question": "Explain the process of genetic engineering.",
+    "subject": "Biology",
+    "topic": "Biotechnology",
+    "difficulty": "Hard",
+    "marks": 16
+  },
+  {
+    "question": "Discuss the economic consequences of war.",
+    "subject": "Economics",
+    "topic": "Macroeconomics",
+    "difficulty": "Medium",
+    "marks": 13
+  },
+  {
+    "question": "Examine the impact of the Scientific Revolution on society.",
+    "subject": "History",
+    "topic": "Scientific Revolution",
+    "difficulty": "Medium",
+    "marks": 12
+  },
+  {
+    "question": "Discuss the principles of operant conditioning in psychology.",
+    "subject": "Psychology",
+    "topic": "Behavioral Psychology",
+    "difficulty": "Hard",
+    "marks": 14
+  },
+  {
+    "question": "Explain the concept of plate tectonics in geology.",
+    "subject": "Geology",
+    "topic": "Plate Tectonics",
+    "difficulty": "Medium",
+    "marks": 11
+  },
+  {
+    "question": "Define and give examples of symbiotic relationships in ecology.",
+    "subject": "Ecology",
+    "topic": "Symbiosis",
+    "difficulty": "Easy",
+    "marks": 7
+  },
+  {
+    "question": "Discuss the impact of social media on mental health.",
+    "subject": "Psychology",
+    "topic": "Social Media and Mental Health",
+    "difficulty": "Medium",
+    "marks": 12
+  },
+  {
+    "question": "Explain the concept of judicial review in political science.",
+    "subject": "Political Science",
+    "topic": "Judicial Review",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Discuss the role of neurotransmitters in the nervous system.",
+    "subject": "Biology",
+    "topic": "Neuroscience",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Define the concept of oligopoly in economics.",
+    "subject": "Economics",
+    "topic": "Microeconomics",
+    "difficulty": "Medium",
+    "marks": 11
+  },
+  {
+    "question": "Examine the impact of the French Revolution on world history.",
+    "subject": "History",
+    "topic": "French Revolution",
+    "difficulty": "Hard",
+    "marks": 16
+  },
+  {
+    "question": "Discuss the principles of classical conditioning in psychology.",
+    "subject": "Psychology",
+    "topic": "Behavioral Psychology",
+    "difficulty": "Medium",
+    "marks": 13
+  },
+  {
+    "question": "Explain the concept of fossil fuels and their impact on the environment.",
+    "subject": "Environmental Science",
+    "topic": "Fossil Fuels",
+    "difficulty": "Medium",
+    "marks": 11
+  },
+  {
+    "question": "Define and give examples of renewable energy sources.",
+    "subject": "Environmental Science",
+    "topic": "Renewable Energy",
+    "difficulty": "Easy",
+    "marks": 8
+  },
+  {
+    "question": "Discuss the process of evolution by natural selection.",
+    "subject": "Biology",
+    "topic": "Evolution",
+    "difficulty": "Medium",
+    "marks": 12
+  },
+  {
+    "question": "Examine the impact of international trade on economic development.",
+    "subject": "Economics",
+    "topic": "International Trade",
+    "difficulty": "Medium",
+    "marks": 12
+  },
+  {
+    "question": "Discuss the causes and consequences of the American Civil War.",
+    "subject": "History",
+    "topic": "American Civil War",
+    "difficulty": "Hard",
+    "marks": 16
+  },
+  {
+    "question": "Explain the concept of cognitive dissonance in psychology.",
+    "subject": "Psychology",
+    "topic": "Cognitive Dissonance",
+    "difficulty": "Medium",
+    "marks": 10
+  },
+  {
+    "question": "Define the concept of elasticity in economics.",
+    "subject": "Economics",
+    "topic": "Microeconomics",
+    "difficulty": "Medium",
+    "marks": 11
+  },
+  {
+    "question": "Discuss the impact of the Industrial Revolution on urbanization.",
+    "subject": "History",
+    "topic": "Industrial Revolution",
+    "difficulty": "Medium",
+    "marks": 13
+  },
+  {
+    "question": "Explain the process of cellular respiration in detail.",
+    "subject": "Biology",
+    "topic": "Cell Biology",
+    "difficulty": "Hard",
+    "marks": 15
+  },
+  {
+    "question": "Discuss the economic consequences of monopolies.",
+    "subject": "Economics",
+    "topic": "Microeconomics",
+    "difficulty": "Medium",
+    "marks": 12
+  },
+  {
+    "question": "Examine the impact of the Great Depression on global economies.",
+    "subject": "History",
+    "topic": "Great Depression",
+    "difficulty": "Hard",
+    "marks": 16
+  },
+  {
+    "question": "Discuss the principles of reinforcement in psychology.",
+    "subject": "Psychology",
+    "topic": "Behavioral Psychology",
+    "difficulty": "Medium",
+    "marks": 13
+  },
+  {
+    "question": "Explain the concept of cloud computing in computer science.",
+    "subject": "Computer Science",
+    "topic": "Cloud Computing",
+    "difficulty": "Medium",
+    "marks": 12
+  },
+  {
+    "question": "Define and give examples of renewable energy sources.",
+    "subject": "Environmental Science",
+    "topic": "Renewable Energy",
+    "difficulty": "Easy",
+    "marks": 9
+  },
+  {
+    "question": "Discuss the process of genetic variation in evolution.",
+    "subject": "Biology",
+    "topic": "Evolution",
+    "difficulty": "Medium",
+    "marks": 11
+  },
+  {
+    "question": "Examine the impact of government spending on economic growth.",
+    "subject": "Economics",
+    "topic": "Macroeconomics",
+    "difficulty": "Medium",
+    "marks": 11
+  }
+]
